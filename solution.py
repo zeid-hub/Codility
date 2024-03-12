@@ -1,8 +1,8 @@
 from datetime import datetime
 
 def solution(A, D):
-    balance = 0                # Current account balance
-    monthly_fee = 5            # Monthly fee for having a card
+    balance = 0                # My current account balance at the beginning of the year
+    monthly_fee = 5            # A monthly fee for having a card
     card_payments = 0          # Number of card payments in the current month
     card_payment_total = 0     # Total cost of card payments in the current month
 
