@@ -32,4 +32,4 @@ def solution(A, D):
     return balance - (monthly_fee * 12)
 
 # Example usage and expected output
-print(solution([100, 100, 100, -10], ["2020-12-31", "2020-12-22", "2020-12-03", "2020-12-29"]))  # Expected Output: 230
+print(solution([100, 100, 100, -10], ["2020-12-31", "2020-12-22", "2020-12-03", "2020-12-29"]))  
